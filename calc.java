@@ -1,4 +1,6 @@
-import java.util.Scanner;	/*used for input*/
+Author@Nimmy
+
+import java.util.Scanner;   /*used for input*/
 
 public class calc
 {
